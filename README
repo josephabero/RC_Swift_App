@@ -1,0 +1,29 @@
+iOS App Developed by:
+
+Joseph Abero
+Navina Mathew
+Vikas Naveen
+Udit Chophla
+
+
+App is an accompanying app used to control the Autonomous Platform for CMPE 195F.
+
+* Raspberry Pi must be running prior to opening app *
+-----------------------------------------------------
+Once the app connects to the MQTT server on the Raspberry Pi, User may switch between:
+
+1. Autonomous Mode
+2. Manual Mode
+
+Autonomous Mode
+---------------
+Autonomous Platform is controlled via the camera aboard the platform.
+Control buttons are greyed out and are disabled.
+User may switch to Manual Mode by pressing the middle button.
+
+
+Manual Mode
+-----------
+Autonomous Platform is controlled by the buttons on the iPhone screen.
+Each direction will allow the platform to move in the desired direction.
+User may switch to Autonomous Mode by pressing the middle button.
